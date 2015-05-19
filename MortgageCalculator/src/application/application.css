@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/**
+Assignment:
+
+Create a JavaFX program that allows the user to input the following:
+
+Total Gross Income
+
+Total Monthly debt
+
+Mortgage Interest Rate
+
+Term (have this as a drop down, 10 years, 15 years, 30 years)
+
+Down payment (numeric field, optional... default zero)
+
+Calculate the following:
+
+Housing payment only (18% of gross income):
+
+Housing payment + other obligations (36% of gross income)
+
+Maximum payment allowed (lower of the two payments)
+
+Amount of mortgage that can be financed.
+
+ 
+
+If the user changes any of the fields, re-calculate the amounts (change term, re-calculate amount, change down payment, re-calculate...)
+**/
